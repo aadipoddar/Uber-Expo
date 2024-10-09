@@ -83,8 +83,6 @@ const SignIn = () => {
             <Text className="text-primary-500">Sign Up</Text>
           </Link>
         </View>
-
-        {/* Verification Modal */}
       </View>
     </ScrollView>
   );
